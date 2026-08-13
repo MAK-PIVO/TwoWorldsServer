@@ -1,3 +1,4 @@
+<img width="1206" height="946" alt="1" src="https://github.com/user-attachments/assets/4ea304d5-0f0b-4233-97f6-9ee6e71ad74a" />
 # TW1Server
 
 Лаунчер и панель управления для инструментов возрождения Two Worlds 1:
